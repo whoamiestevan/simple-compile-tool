@@ -107,7 +107,7 @@ printf("usage: main/~ [command]");
 printf("\ncommands:");
 	printf(YELLOW"\n-show, show current directory and files");
 	printf("\n-edit, this will use Nano Code Editor");
-	printf("\n-compileC, this will compile and execute/run your c program");
+	printf("\n-compC, this will compile and execute/run your c program");
 	printf("\n-runC, this will execute/run your c program");
 	printf("\n-mcrJAVA, make compile run , Java Program");
 	printf("\n-compJAVA, compile Java Program");
